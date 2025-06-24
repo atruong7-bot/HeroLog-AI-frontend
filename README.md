@@ -60,6 +60,4 @@ Main Character AI is a self-improvement dashboard that gamifies personal growth.
 ## 🧠 Inspired By
 
 * *Solo Leveling*
-* *Habitica*
-* *Streaks App*
-* Your own ambition to become the Main Character in your life
+* Mu own ambition to become the Main Character in your life
