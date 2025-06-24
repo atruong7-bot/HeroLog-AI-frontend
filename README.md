@@ -1,6 +1,3 @@
-Here’s a `README.md` tailored to your **Main Character AI** project:
-
----
 
 # Main Character AI
 
