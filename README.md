@@ -3,7 +3,7 @@
 
 **Track Progress. Stay Motivated. Level Up Every Day.**
 
-Main Character AI is a self-improvement dashboard that gamifies personal growth. Whether you're hitting the gym, building a project portfolio, or working on your mindset, this app helps you stay consistent and feel like the protagonist of your journey.
+Hero Log AI is a self-improvement dashboard that gamifies personal growth. Whether you're hitting the gym, building a project portfolio, or working on your mindset, this app helps you stay consistent and feel like the protagonist of your journey.
 
 ## 🚀 Features
 
