@@ -1,5 +1,5 @@
 
-# Main Character AI
+# Hero Log AI
 
 **Track Progress. Stay Motivated. Level Up Every Day.**
 
