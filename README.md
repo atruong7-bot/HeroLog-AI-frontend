@@ -1,5 +1,5 @@
 
-# Hero Log AI
+# Ascend AI
 
 **Track Progress. Stay Motivated. Level Up Every Day.**
 
