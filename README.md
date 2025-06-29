@@ -1,9 +1,9 @@
 
-# Ascend AI
+# AscendAI
 
 **Track Progress. Stay Motivated. Level Up Every Day.**
 
-Hero Log AI is a self-improvement dashboard that gamifies personal growth. Whether you're hitting the gym, building a project portfolio, or working on your mindset, this app helps you stay consistent and feel like the protagonist of your journey.
+AscendAI is a self-improvement dashboard that gamifies personal growth. Whether you're hitting the gym, building a project portfolio, or working on your mindset, this app helps you stay consistent and feel like the protagonist of your journey.
 
 ## 🚀 Features
 
