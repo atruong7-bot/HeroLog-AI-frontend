@@ -1,63 +1,12 @@
+# React + Vite
 
-# AscendAI
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-**Track Progress. Stay Motivated. Level Up Every Day.**
+Currently, two official plugins are available:
 
-AscendAI is a self-improvement dashboard that gamifies personal growth. Whether you're hitting the gym, building a project portfolio, or working on your mindset, this app helps you stay consistent and feel like the protagonist of your journey.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## 🚀 Features
+## Expanding the ESLint configuration
 
-* 🔒 **User Authentication** (Firebase Auth)
-* 📊 **Dashboard** with XP and Streak Tracking
-* 🏋️ **Workout & Habit Logging** (Fitness, Food, Coding)
-* 🧠 **AI Feedback** (GPT-4o motivational messages & reflections)
-* 🗣️ **Spoken Affirmation Verification** using speech input
-* 🎯 **Mini-goals** and encouragement based on user trends
-* 📱 **Mobile-Responsive UI** using Tailwind CSS
-
-## 🧱 Tech Stack
-
-### Frontend
-
-* React 18 + TypeScript
-* Vite (Build Tool)
-* Tailwind CSS (Styling)
-* Zustand (State Management)
-* React Router DOM (Routing)
-
-### Backend & Hosting
-
-* Firebase Auth (Authentication)
-* Firestore (Database & Caching)
-* Firebase Cloud Functions (for AI integration)
-* Firebase Hosting (Global CDN)
-
-### AI & Speech
-
-* OpenAI GPT-4o (LLM)
-* Web Speech API (Spoken Affirmation Verification)
-
-## 🗂️ Project Structure (Planned)
-
-* `/frontend`: React + Vite frontend
-* `/functions`: Firebase Cloud Functions for GPT-4o
-* `/docs`: Technical and planning documentation
-
-## 📈 Success Metrics
-
-* 90%+ flow completion rate
-* <2s GPT-4o response time
-* 80% of users interacting with AI messages
-* 70% of users completing spoken affirmations 3x/week
-
-## 🔧 Setup Instructions
-
-1. Clone the repo and run `npm install` inside `/frontend`
-2. Create Firebase project & enable Auth + Firestore
-3. Add `.env` variables for Firebase + OpenAI keys
-4. Deploy with Firebase CLI
-
-## 🧠 Inspired By
-
-* *Solo Leveling*
-* Mu own ambition to become the Main Character in your life
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
